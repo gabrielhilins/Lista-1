@@ -1,7 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica
- --> mat
+	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()
 	{
@@ -33,9 +32,9 @@ programa
 	leia(operacao)
 
 	escolha(operacao){
-		caso 1:
-		escreva("resultado:" , soma)
-		pare
+	     caso 1:
+	     escreva("resultado:" , soma)
+	     pare
 	     caso 2:
 	     escreva("resultado:" , sub)
 	     pare
