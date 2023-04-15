@@ -1,3 +1,6 @@
+// Escreva um programa que lê dois valores booleanos (lógicos) e então determina se
+// ambos são VERDADEIROS ou FALSOS.
+
 programa {
   funcao inicio() {
     logico v1, v2
