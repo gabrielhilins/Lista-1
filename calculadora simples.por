@@ -6,9 +6,9 @@
 // • Se a seleção do usuário for '3': Calcular a multiplicação entre os dois números;
 // • Se a seleção do usuário for '4': Calcular a divisão do primeiro número pelo segundo;
 // • Se a seleção do usuário for '5': Calcular o resto da divisão do primeiro número pelo
-segundo;
+// segundo;
 // • Se a seleção do usuário for '6': Calcular o primeiro número elevado ao segundo
-número;
+// número;
 // • Se a seleção do usuário for '7': Calcular a raiz quadrada do segundo número.
 
 
