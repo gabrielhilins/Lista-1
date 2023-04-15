@@ -1,9 +1,9 @@
 programa {
   funcao inicio() {
     logico v1, v2
-    escreva("Digite o primeiro valor booleano:")
+    escreva("Digite o primeiro valor booleano:") // verdadeiro ou falso
     leia(v1)
-    escreva("Digite o segundo valor booleano:")
+    escreva("Digite o segundo valor booleano:") // verdadeiro ou falso
     leia(v2)
     se ((v1 == verdadeiro) e (v2 == verdadeiro)){
       escreva("VERDADEIRO")
