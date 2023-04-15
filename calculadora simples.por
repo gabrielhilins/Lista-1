@@ -1,3 +1,17 @@
+// Escreva um programa que simula uma calculadora simples. O programa deve ler dois
+// números reais, calcular e exibir o resultado da operação de acordo com a escolha do usuário
+// descritas a seguir:
+// • Se a seleção do usuário for '1': Calcular a soma dos dois números;
+// • Se a seleção do usuário for '2': Calcular a diferença entre os dois números;
+// • Se a seleção do usuário for '3': Calcular a multiplicação entre os dois números;
+// • Se a seleção do usuário for '4': Calcular a divisão do primeiro número pelo segundo;
+// • Se a seleção do usuário for '5': Calcular o resto da divisão do primeiro número pelo
+segundo;
+// • Se a seleção do usuário for '6': Calcular o primeiro número elevado ao segundo
+número;
+// • Se a seleção do usuário for '7': Calcular a raiz quadrada do segundo número.
+
+
 programa
 {
 	inclua biblioteca Matematica --> mat
