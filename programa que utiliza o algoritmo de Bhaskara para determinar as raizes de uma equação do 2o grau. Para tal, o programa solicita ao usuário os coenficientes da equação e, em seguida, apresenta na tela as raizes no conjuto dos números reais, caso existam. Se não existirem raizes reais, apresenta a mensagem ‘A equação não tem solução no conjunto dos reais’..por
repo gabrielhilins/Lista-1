@@ -4,11 +4,11 @@ programa
 	funcao inicio()
 	{
 	real x1, x2, delta, equacao, a, b, c 
-	escreva("Escolha o coeficiente a da equação:")
+	escreva("Escolha o coeficiente a da equaÃ§Ã£o:")
 	leia(a)
-	escreva("Escolha o coeficiente b da equação:")
+	escreva("Escolha o coeficiente b da equaÃ§Ã£o:")
 	leia(b)
-	escreva("Escolha o coeficiente c da equação:")
+	escreva("Escolha o coeficiente c da equaÃ§Ã£o:")
 	leia(c)
 
 
@@ -17,12 +17,12 @@ programa
 	x2 = (-(b) + (mat.raiz(delta, 2))/2*a
 escreva("Valor de delta:" , delta)
 	se (delta > 0){
-		escreva("\nraízes: " , x1, " , " , x2)
+		escreva("\nraÃ­zes: " , x1, " , " , x2)
 	}
 	se (delta == 0){
 		escreva("\nraizes: " , x1, " , " , x2)
 	}
 	se (delta < 0){
-		escreva("\nnao há raizes reais")
+		escreva("\nnao hÃ¡ raizes reais")
 	}
 	}
