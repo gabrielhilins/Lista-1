@@ -1,3 +1,9 @@
+// Escreva um programa que utiliza o algoritmo de Bhaskara para determinar as raizes de
+// uma equação do 2o grau. Para tal, o program deve solicitar ao usuário os coenficientes da
+// equação e, em seguida, apresentar na tela as raizes no conjuto dos números reais, caso
+// existam. Se não existirem raizes reais, apresentar a mensagem ‘A equação não tem solução
+// no conjunto dos reais’.
+
 programa
 {
 	inclua biblioteca Matematica --> mat
