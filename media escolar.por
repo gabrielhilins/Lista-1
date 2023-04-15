@@ -1,24 +1,24 @@
 # Projetos-Portugol
 // Escreva um programa que leia o número de identificação, as 3 notas obtidas por um
-estudante nas 3 verificações de aprendizagem e a média dos exercícios que fazem
-parte da avaliação. Em seguida, calcule a média de aproveitamento, usando a fórmula
-seguinte:
+// estudante nas 3 verificações de aprendizagem e a média dos exercícios que fazem
+// parte da avaliação. Em seguida, calcule a média de aproveitamento, usando a fórmula
+// seguinte:
 
-MA = (nota1 + 2 ∙ nota2 + 3 ∙ nota3 + ME)/7.
+// MA = (nota1 + 2 ∙ nota2 + 3 ∙ nota3 + ME)/7.
 
-A atribuição dos conceitos obedece a tabela abaixo:
+// A atribuição dos conceitos obedece a tabela abaixo:
 
-Média de aproveitamento
-Maior ou igual 9,0 e menor ou igual a 10,0 (Conceito A)
-Maior ou igual a 7,5 e menor que 9,0 B (Conceito B)
-Maior ou igual a 6,0 e menor que 7,5 C (Conceito C)
-Maior ou igual a 4,0 e menor que 6,0 D (Conceito D)
-Menor que 4,0 Conceito E)
+// Média de aproveitamento
+// Maior ou igual 9,0 e menor ou igual a 10,0 (Conceito A)
+// Maior ou igual a 7,5 e menor que 9,0 B (Conceito B)
+// Maior ou igual a 6,0 e menor que 7,5 C (Conceito C)
+// Maior ou igual a 4,0 e menor que 6,0 D (Conceito D)
+// Menor que 4,0 Conceito E)
 
-O programa deve escrever: o número de identificação do estudante, suas notas, a média
-dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem
-‘Aprovado’se o conceito for A, B ou C, ‘Recuperação’ se o conceito for D e ‘Reprovado’
-se o conceito for E.
+// O programa deve escrever: o número de identificação do estudante, suas notas, a média
+// dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem
+// ‘Aprovado’se o conceito for A, B ou C, ‘Recuperação’ se o conceito for D e ‘Reprovado’
+// se o conceito for E.
 
 
 programa
